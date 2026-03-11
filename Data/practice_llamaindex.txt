@@ -1,0 +1,10 @@
+LlamaIndex Practice TXT File
+
+LlamaIndex is a data framework designed to connect large language models with external data.
+This file is created for practicing document loading and indexing.
+
+Topics:
+- Data loading
+- Chunking
+- Embedding
+- Vector indexing
